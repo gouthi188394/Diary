@@ -1,0 +1,12 @@
+node_modules
+dist
+coverage
+.env
+app/server/.env
+app/web/.env
+.npm-cache
+.sfdx
+.DS_Store
+*.log
+app/server/.tmp
+app/web/.vite
